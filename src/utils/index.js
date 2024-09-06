@@ -37,7 +37,7 @@ const chartData = [
 ];
 
 
-Axios.defaults.baseURL = "http://localhost:5000/api";
+Axios.defaults.baseURL = "https://data-visualization-using-d3.onrender.com/api";
 
 
 export { chartData, Axios };
